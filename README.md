@@ -24,7 +24,7 @@
 
 
 Telegram Bot to store Posts and Documents and it can Access by Special Links.
-I Guess This Will Be Usefull For Many People.. 🥰
+I Guess This Will Be Usefull For Many People.. 🥰.
 
 ##
 
@@ -44,7 +44,7 @@ I Guess This Will Be Usefull For Many People.. 🥰
 ##
 ### Installation
 #### Deploy on Heroku
-** bla bla bla bla bls bls **
+** Join @TekanSiniLah @UnlimitedTrusted @Unlimited4u Contact Me @skema **
 <br>
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
 <a href="https://youtu.be/LCrkRTMkmzE">
