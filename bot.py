@@ -1,4 +1,4 @@
-#(©)Codexbotz
+#(©)LuckyLiGat
 
 import pyromod.listen
 from pyrogram import Client
