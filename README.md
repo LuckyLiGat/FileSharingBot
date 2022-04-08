@@ -5,7 +5,7 @@
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
   </a>
   <a href="https://t.me/UnlimitedTrusted">
-    <img src="https://github.com/LuckyLiGat/PyrogramGenStr/blob/main/resources/madebycodex-badge.svg" width="250">
+    <img src="https://github.com/CodeXBotz/PyrogramGenStr/blob/main/resources/madebycodex-badge.svg" width="250">
   </a><br>
   <a href="https://t.me/UnlimitedTrusted">
     &nbsp;<img src="https://img.shields.io/badge/LuckyLiGat-Channel-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
